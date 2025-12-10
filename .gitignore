@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.log
+contacts_backup.json
+contacts_export.csv
